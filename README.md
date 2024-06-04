@@ -8,13 +8,14 @@ Analyzing sales distribution data using Power BI to derive actionable insights a
 **Tool:** Power BI
 
 **Libraries and Languages:** DAX, Power Query M, Python (for advanced analytics)
-**Data Sources**
+## Appendix
+## Data Sources
   * Sales, Customer, Product, and Geographical Data.
-**Metrics and Analysis**
+## Metrics and Analysis
   * Key Metrics: Total Sales, Sales by Region/Product/Customer Segment, Time Series Analysis.
   * Data Visualization: Bar Charts, Line Charts, Pie Charts, Heat Maps.
   * Advanced Analysis: Sales Forecasting, Customer Segmentation, Correlation Analysis.
-**Key Findings and Insights**
+## Key Findings and Insights
 * Top Performing Regions and Products
 * Customer Insights and Seasonal Trends
 * Actionable Recommendations: Sales Strategy, Marketing Campaigns, Inventory Management
