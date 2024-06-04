@@ -18,13 +18,14 @@ Analyzing sales distribution data using Power BI to derive actionable insights a
 * Top Performing Regions and Products
 * Customer Insights and Seasonal Trends
 * Actionable Recommendations: Sales Strategy, Marketing Campaigns, Inventory Management
+
 ## Conclusion
 
 This analysis provides a comprehensive view of sales performance, enabling data-driven decision-making and business growth through advanced analytics and visualization in Power BI.
 
 ## Let's Connect ©
-Project Completed by Tajamul Khan
-For More Projects like this, check out my GitHub
-Let's connect over LinkedIn
+Project Completed by [Prajakta Gaikwad](https://github.com/Gaikwadp629)
+Let's connect over [LinkedIn](https://www.linkedin.com/in/prajakta-gaikwad-33b678198/)
+
 
 
